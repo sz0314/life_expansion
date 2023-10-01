@@ -1,0 +1,440 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "values": [
+      {
+        "Country Name": "Albania",
+        "Life Expectancy World Bank": 1376.269
+      },
+      {
+        "Country Name": "Algeria",
+        "Life Expectancy World Bank": 1416.472
+      },
+      {
+        "Country Name": "Argentina",
+        "Life Expectancy World Bank": 1200.273
+      },
+      {
+        "Country Name": "Armenia",
+        "Life Expectancy World Bank": 1395.982
+      },
+      {
+        "Country Name": "Australia",
+        "Life Expectancy World Bank": 1549.49756097
+      },
+      {
+        "Country Name": "Austria",
+        "Life Expectancy World Bank": 1528.41219512
+      },
+      {
+        "Country Name": "Azerbaijan",
+        "Life Expectancy World Bank": 1339.83
+      },
+      {
+        "Country Name": "Bahrain",
+        "Life Expectancy World Bank": 1444.59
+      },
+      {
+        "Country Name": "Bangladesh",
+        "Life Expectancy World Bank": 1322.96
+      },
+      {
+        "Country Name": "Belarus",
+        "Life Expectancy World Bank": 1351.74878049
+      },
+      {
+        "Country Name": "Belgium",
+        "Life Expectancy World Bank": 1521.45853657
+      },
+      {
+        "Country Name": "Bhutan",
+        "Life Expectancy World Bank": 1287.64
+      },
+      {
+        "Country Name": "Bolivia",
+        "Life Expectancy World Bank": 1287.14
+      },
+      {
+        "Country Name": "Bosnia and Herzegovina",
+        "Life Expectancy World Bank": 1367.192
+      },
+      {
+        "Country Name": "Brazil",
+        "Life Expectancy World Bank": 1395.226
+      },
+      {
+        "Country Name": "Bulgaria",
+        "Life Expectancy World Bank": 1398.10975608
+      },
+      {
+        "Country Name": "Canada",
+        "Life Expectancy World Bank": 1538.92439025
+      },
+      {
+        "Country Name": "Central African Republic",
+        "Life Expectancy World Bank": 909.339
+      },
+      {
+        "Country Name": "Chad",
+        "Life Expectancy World Bank": 966.893
+      },
+      {
+        "Country Name": "Chile",
+        "Life Expectancy World Bank": 1493.8980000000001
+      },
+      {
+        "Country Name": "China",
+        "Life Expectancy World Bank": 1413.93
+      },
+      {
+        "Country Name": "Colombia",
+        "Life Expectancy World Bank": 1432.185
+      },
+      {
+        "Country Name": "Costa Rica",
+        "Life Expectancy World Bank": 1498.028
+      },
+      {
+        "Country Name": "Croatia",
+        "Life Expectancy World Bank": 1452.63195123
+      },
+      {
+        "Country Name": "Cuba",
+        "Life Expectancy World Bank": 1484.337
+      },
+      {
+        "Country Name": "Cyprus",
+        "Life Expectancy World Bank": 1510.299
+      },
+      {
+        "Country Name": "Denmark",
+        "Life Expectancy World Bank": 1504.51707317
+      },
+      {
+        "Country Name": "Djibouti",
+        "Life Expectancy World Bank": 1159.5
+      },
+      {
+        "Country Name": "Ecuador",
+        "Life Expectancy World Bank": 1426.927
+      },
+      {
+        "Country Name": "Estonia",
+        "Life Expectancy World Bank": 1423.43536584
+      },
+      {
+        "Country Name": "Ethiopia",
+        "Life Expectancy World Bank": 1152.739
+      },
+      {
+        "Country Name": "Finland",
+        "Life Expectancy World Bank": 1521.13414635
+      },
+      {
+        "Country Name": "France",
+        "Life Expectancy World Bank": 1546.07317075
+      },
+      {
+        "Country Name": "Georgia",
+        "Life Expectancy World Bank": 1362.559
+      },
+      {
+        "Country Name": "Germany",
+        "Life Expectancy World Bank": 1518.14390244
+      },
+      {
+        "Country Name": "Ghana",
+        "Life Expectancy World Bank": 1154.972
+      },
+      {
+        "Country Name": "Greece",
+        "Life Expectancy World Bank": 1524.71707317
+      },
+      {
+        "Country Name": "Guinea-Bissau",
+        "Life Expectancy World Bank": 1037.453
+      },
+      {
+        "Country Name": "Honduras",
+        "Life Expectancy World Bank": 1391.706
+      },
+      {
+        "Country Name": "Hungary",
+        "Life Expectancy World Bank": 1411.34390244
+      },
+      {
+        "Country Name": "Iceland",
+        "Life Expectancy World Bank": 1556.08292683
+      },
+      {
+        "Country Name": "India",
+        "Life Expectancy World Bank": 1264.137
+      },
+      {
+        "Country Name": "Iraq",
+        "Life Expectancy World Bank": 1175.259
+      },
+      {
+        "Country Name": "Ireland",
+        "Life Expectancy World Bank": 1524.36341462
+      },
+      {
+        "Country Name": "Israel",
+        "Life Expectancy World Bank": 1544.00975608
+      },
+      {
+        "Country Name": "Italy",
+        "Life Expectancy World Bank": 1555.56341463
+      },
+      {
+        "Country Name": "Japan",
+        "Life Expectancy World Bank": 1574.93951219
+      },
+      {
+        "Country Name": "Jordan",
+        "Life Expectancy World Bank": 1393.363
+      },
+      {
+        "Country Name": "Kiribati",
+        "Life Expectancy World Bank": 1251.356
+      },
+      {
+        "Country Name": "Kuwait",
+        "Life Expectancy World Bank": 1412.519
+      },
+      {
+        "Country Name": "Latvia",
+        "Life Expectancy World Bank": 1386.56097561
+      },
+      {
+        "Country Name": "Lebanon",
+        "Life Expectancy World Bank": 1477.7930000000001
+      },
+      {
+        "Country Name": "Lesotho",
+        "Life Expectancy World Bank": 895.017
+      },
+      {
+        "Country Name": "Libya",
+        "Life Expectancy World Bank": 789.864
+      },
+      {
+        "Country Name": "Lithuania",
+        "Life Expectancy World Bank": 1390.94146341
+      },
+      {
+        "Country Name": "Luxembourg",
+        "Life Expectancy World Bank": 1530.96585367
+      },
+      {
+        "Country Name": "Madagascar",
+        "Life Expectancy World Bank": 1203.101
+      },
+      {
+        "Country Name": "Malawi",
+        "Life Expectancy World Bank": 1045.548
+      },
+      {
+        "Country Name": "Malaysia",
+        "Life Expectancy World Bank": 1339.273
+      },
+      {
+        "Country Name": "Mali",
+        "Life Expectancy World Bank": 1040.141
+      },
+      {
+        "Country Name": "Malta",
+        "Life Expectancy World Bank": 1532.4804878099999
+      },
+      {
+        "Country Name": "Mexico",
+        "Life Expectancy World Bank": 1425.808
+      },
+      {
+        "Country Name": "Mongolia",
+        "Life Expectancy World Bank": 1274.33
+      },
+      {
+        "Country Name": "Montenegro",
+        "Life Expectancy World Bank": 688.01463413
+      },
+      {
+        "Country Name": "Morocco",
+        "Life Expectancy World Bank": 1400.938
+      },
+      {
+        "Country Name": "Myanmar",
+        "Life Expectancy World Bank": 1209.785
+      },
+      {
+        "Country Name": "Nepal",
+        "Life Expectancy World Bank": 1279.438
+      },
+      {
+        "Country Name": "Netherlands",
+        "Life Expectancy World Bank": 1528.79268293
+      },
+      {
+        "Country Name": "New Zealand",
+        "Life Expectancy World Bank": 1531.20829267
+      },
+      {
+        "Country Name": "Niger",
+        "Life Expectancy World Bank": 1082.878
+      },
+      {
+        "Country Name": "Nigeria",
+        "Life Expectancy World Bank": 963.629
+      },
+      {
+        "Country Name": "North Macedonia",
+        "Life Expectancy World Bank": 1419.41219512
+      },
+      {
+        "Country Name": "Norway",
+        "Life Expectancy World Bank": 1539.80731707
+      },
+      {
+        "Country Name": "Paraguay",
+        "Life Expectancy World Bank": 1380.01
+      },
+      {
+        "Country Name": "Peru",
+        "Life Expectancy World Bank": 1412.061
+      },
+      {
+        "Country Name": "Philippines",
+        "Life Expectancy World Bank": 1328.038
+      },
+      {
+        "Country Name": "Poland",
+        "Life Expectancy World Bank": 1447.61707316
+      },
+      {
+        "Country Name": "Portugal",
+        "Life Expectancy World Bank": 1509.22195123
+      },
+      {
+        "Country Name": "Qatar",
+        "Life Expectancy World Bank": 1501.248
+      },
+      {
+        "Country Name": "Romania",
+        "Life Expectancy World Bank": 1396.20975611
+      },
+      {
+        "Country Name": "Samoa",
+        "Life Expectancy World Bank": 1358.695
+      },
+      {
+        "Country Name": "Sao Tome and Principe",
+        "Life Expectancy World Bank": 1272.1190000000001
+      },
+      {
+        "Country Name": "Saudi Arabia",
+        "Life Expectancy World Bank": 1404.927
+      },
+      {
+        "Country Name": "Senegal",
+        "Life Expectancy World Bank": 1210.371
+      },
+      {
+        "Country Name": "Serbia",
+        "Life Expectancy World Bank": 1409.93414635
+      },
+      {
+        "Country Name": "Sierra Leone",
+        "Life Expectancy World Bank": 924.168
+      },
+      {
+        "Country Name": "Singapore",
+        "Life Expectancy World Bank": 1543.53658533
+      },
+      {
+        "Country Name": "Slovenia",
+        "Life Expectancy World Bank": 1504.63292684
+      },
+      {
+        "Country Name": "Spain",
+        "Life Expectancy World Bank": 1552.4878049
+      },
+      {
+        "Country Name": "Suriname",
+        "Life Expectancy World Bank": 1332.0629999999999
+      },
+      {
+        "Country Name": "Sweden",
+        "Life Expectancy World Bank": 1546.63902439
+      },
+      {
+        "Country Name": "Switzerland",
+        "Life Expectancy World Bank": 1562.0390244
+      },
+      {
+        "Country Name": "Tanzania",
+        "Life Expectancy World Bank": 1114.061
+      },
+      {
+        "Country Name": "Thailand",
+        "Life Expectancy World Bank": 1407.811
+      },
+      {
+        "Country Name": "Togo",
+        "Life Expectancy World Bank": 1089.066
+      },
+      {
+        "Country Name": "Tonga",
+        "Life Expectancy World Bank": 1333.334
+      },
+      {
+        "Country Name": "Tunisia",
+        "Life Expectancy World Bank": 1426.155
+      },
+      {
+        "Country Name": "Ukraine",
+        "Life Expectancy World Bank": 1326.42853659
+      },
+      {
+        "Country Name": "United Arab Emirates",
+        "Life Expectancy World Bank": 1375.468
+      },
+      {
+        "Country Name": "United Kingdom",
+        "Life Expectancy World Bank": 1521.12439024
+      },
+      {
+        "Country Name": "United States",
+        "Life Expectancy World Bank": 1484.59268292
+      },
+      {
+        "Country Name": "Zimbabwe",
+        "Life Expectancy World Bank": 577.2
+      }
+    ]
+  },
+  "mark": "geoshape",
+  "projection": {
+    "type": "identity"
+  },
+  "encoding": {
+    "shape": {
+      "field": "Country Name",
+      "type": "geojson"
+    },
+    "color": {
+      "field": "Life Expectancy World Bank",
+      "type": "quantitative",
+      "scale": {
+        "type": "sequential",
+        "scheme": "reds"
+      },
+      "title": "Life Expectancy World Bank"
+    }
+  },
+  "config": {
+    "view": {
+      "width": 500,
+      "height": 300
+    }
+  }
+}
