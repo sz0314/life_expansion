@@ -1,4 +1,4 @@
-Country Name,Life Expectancy World Bank,Prevelance of Undernourishment,CO2,Health Expenditure %,Education Expenditure %,Unemployment,Corruption,Sanitation,Injuries,Communicable,NonCommunicable
+Country Name,Life_Expectancy,Undernourishment,CO2,Health_Expenditure,Education_Expenditure,Unemployment,Corruption,Sanitation,Injuries,Communicable,NonCommunicable
 Afghanistan,60.82921053,28.55263158,4247.368448,10.22339286,3.301719983,11.1648421,2.035714286,,2743096.43,7577978.473,6613503.581
 Albania,76.57063158,6.115789474,4362.631584,5.657288418,3.347928651,15.2073159,2.75,44.15286159,88665.51895,79690.89158,578269.5826
 Algeria,74.55115789,4.710526316,122019.4738,5.048731389,5.720433772,13.73610517,,19.72812216,1311985.941,1852615.286,6313575.785
