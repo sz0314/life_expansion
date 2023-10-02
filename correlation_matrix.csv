@@ -1,0 +1,144 @@
+Year,Year,1
+Year,Life Expectancy World Bank,0.20032575
+Year,Prevalence of Undernourishment,-0.134160706
+Year,CO2,0.023134589
+Year,Health Expenditure %,0.107285706
+Year,Education Expenditure %,0.012212873
+Year,Unemployment,-0.047593989
+Year,Corruption,-0.023014569
+Year,Sanitation,0.078050637
+Year,Injuries,-0.007440896
+Year,Communicable,-0.039386162
+Year,NonCommunicable,0.018499609
+Life Expectancy World Bank,Year,0.20032575
+Life Expectancy World Bank,Life Expectancy World Bank,1
+Life Expectancy World Bank,Prevalence of Undernourishment,-0.708330246
+Life Expectancy World Bank,CO2,0.13060496
+Life Expectancy World Bank,Health Expenditure %,0.341448946
+Life Expectancy World Bank,Education Expenditure %,0.233884288
+Life Expectancy World Bank,Unemployment,-0.048958717
+Life Expectancy World Bank,Corruption,0.050805136
+Life Expectancy World Bank,Sanitation,0.708275264
+Life Expectancy World Bank,Injuries,-0.003606586
+Life Expectancy World Bank,Communicable,-0.216455024
+Life Expectancy World Bank,NonCommunicable,0.047623244
+Prevalence of Undernourishment,Year,-0.134160706
+Prevalence of Undernourishment,Life Expectancy World Bank,-0.708330246
+Prevalence of Undernourishment,Prevalence of Undernourishment,1
+Prevalence of Undernourishment,CO2,-0.130968515
+Prevalence of Undernourishment,Health Expenditure %,-0.25078767
+Prevalence of Undernourishment,Education Expenditure %,-0.239730323
+Prevalence of Undernourishment,Unemployment,-0.124836959
+Prevalence of Undernourishment,Corruption,-0.040350382
+Prevalence of Undernourishment,Sanitation,-0.040350382
+Prevalence of Undernourishment,Injuries,0.003717571
+Prevalence of Undernourishment,Communicable,0.14063573
+Prevalence of Undernourishment,NonCommunicable,-0.050077533
+CO2,Year,0.023134589
+CO2,Life Expectancy World Bank,0.13060496
+CO2,Prevalence of Undernourishment,-0.130968515
+CO2,CO2,1
+CO2,Health Expenditure %,0.140850736
+CO2,Education Expenditure %,-0.050249829
+CO2,Unemployment,-0.054735409
+CO2,Corruption,0.045994353
+CO2,Sanitation,0.12524049
+CO2,Injuries,0.647708271
+CO2,Communicable,0.204362204
+CO2,NonCommunicable,0.819501668
+Health Expenditure %,Year,0.107285706
+Health Expenditure %,Life Expectancy World Bank,0.341448946
+Health Expenditure %,Prevalence of Undernourishment,-0.25078767
+Health Expenditure %,CO2,0.140850736
+Health Expenditure %,Health Expenditure %,1
+Health Expenditure %,Education Expenditure %,0.255434681
+Health Expenditure %,Unemployment,0.194688729
+Health Expenditure %,Corruption,-0.096811749
+Health Expenditure %,Sanitation,0.327815599
+Health Expenditure %,Injuries,-0.083408433
+Health Expenditure %,Communicable,-0.185117266
+Health Expenditure %,NonCommunicable,-0.035946528
+Education Expenditure %,Year,0.012212873
+Education Expenditure %,Life Expectancy World Bank,0.233884288
+Education Expenditure %,Prevalence of Undernourishment,-0.239730323
+Education Expenditure %,CO2,-0.050249829
+Education Expenditure %,Health Expenditure %,0.255434681
+Education Expenditure %,Education Expenditure %,1
+Education Expenditure %,Unemployment,0.151832795
+Education Expenditure %,Corruption,0.108526344
+Education Expenditure %,Sanitation,0.245083841
+Education Expenditure %,Injuries,-0.085951452
+Education Expenditure %,Communicable,-0.131730237
+Education Expenditure %,NonCommunicable,-0.085045363
+Unemployment,Year,-0.047593989
+Unemployment,Life Expectancy World Bank,-0.048958717
+Unemployment,Prevalence of Undernourishment,-0.124836959
+Unemployment,CO2,-0.054735409
+Unemployment,Health Expenditure %,0.194688729
+Unemployment,Education Expenditure %,0.151832795
+Unemployment,Unemployment,1
+Unemployment,Corruption,-0.128897752
+Unemployment,Sanitation,-0.1092872
+Unemployment,Injuries,-0.070199605
+Unemployment,Communicable,-0.09785026
+Unemployment,NonCommunicable,-0.080876393
+Corruption,Year,-0.023014569
+Corruption,Life Expectancy World Bank,0.050805136
+Corruption,Prevalence of Undernourishment,-0.040350382
+Corruption,CO2,0.045994353
+Corruption,Health Expenditure %,-0.096811749
+Corruption,Education Expenditure %,0.108526344
+Corruption,Unemployment,-0.128897752
+Corruption,Corruption,1
+Corruption,Sanitation,-0.110226082
+Corruption,Injuries,0.11503379
+Corruption,Communicable,0.090400598
+Corruption,NonCommunicable,0.105828593
+Sanitation,Year,0.078050637
+Sanitation,Life Expectancy World Bank,0.708275264
+Sanitation,Prevalence of Undernourishment,-0.578746537
+Sanitation,CO2,0.12524049
+Sanitation,Health Expenditure %,0.327815599
+Sanitation,Education Expenditure %,0.245083841
+Sanitation,Unemployment,-0.1092872
+Sanitation,Corruption,-0.110226082
+Sanitation,Sanitation,1
+Sanitation,Injuries,-0.064185062
+Sanitation,Communicable,-0.192402603
+Sanitation,NonCommunicable,-0.001961895
+Injuries,Year,-0.007440896
+Injuries,Life Expectancy World Bank,-0.003606586
+Injuries,Prevalence of Undernourishment,0.003717571
+Injuries,CO2,0.647708271
+Injuries,Health Expenditure %,-0.083408433
+Injuries,Education Expenditure %,-0.085951452
+Injuries,Unemployment,-0.070199605
+Injuries,Corruption,0.11503379
+Injuries,Sanitation,-0.064185062
+Injuries,Injuries,1
+Injuries,Communicable,0.772124344
+Injuries,NonCommunicable,0.952276991
+Communicable,Year,-0.039386162
+Communicable,Life Expectancy World Bank,-0.216455024
+Communicable,Prevalence of Undernourishment,0.14063573
+Communicable,CO2,0.204362204
+Communicable,Health Expenditure %,-0.185117266
+Communicable,Education Expenditure %,-0.131730237
+Communicable,Unemployment,-0.09785026
+Communicable,Corruption,0.090400598
+Communicable,Sanitation,-0.192402603
+Communicable,Injuries,0.772124344
+Communicable,Communicable,1
+Communicable,NonCommunicable,0.616919489
+NonCommunicable,Year,0.018499609
+NonCommunicable,Life Expectancy World Bank,0.047623244
+NonCommunicable,Prevalence of Undernourishment,-0.050077533
+NonCommunicable,CO2,0.819501668
+NonCommunicable,Health Expenditure %,-0.035946528
+NonCommunicable,Education Expenditure %,-0.085045363
+NonCommunicable,Unemployment,-0.080876393
+NonCommunicable,Corruption,0.105828593
+NonCommunicable,Sanitation,-0.001961895
+NonCommunicable,Injuries,0.952276991
+NonCommunicable,Communicable,0.616919489
+NonCommunicable,NonCommunicable,1
